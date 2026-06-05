@@ -1,2 +1,5 @@
-a = list(map(int, input().split()))
-print(a)
+from pattern import main
+
+
+if __name__ == "__main__":
+    main()
